@@ -64,7 +64,7 @@ namespace Atividade05
                         Console.WriteLine("Aluno reprovado");
                     }
                     Console.ReadKey();
-
+                }
 
             }
         }
